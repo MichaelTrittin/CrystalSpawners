@@ -1,0 +1,16 @@
+[
+{
+  "modid": "crystalspawners",
+  "name": "Crystal Spawners",
+  "description": "Step 1: Kill mobs. Step 2: Craft spawners. Step 3: Spawn mobs.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/MichaelTrittin/CrystalSpawners/",
+  "updateUrl": "",
+  "authorList": ["MichaelTrittin"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
